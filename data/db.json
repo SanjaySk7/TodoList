@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Create Json"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Fetch API"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Connect db"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "complete crud"
+    }
+  ]
+}
